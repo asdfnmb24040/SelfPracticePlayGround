@@ -1,2 +1,3 @@
 # Quick Guide
-This's a self-practice Java Console Project major Implementation of Data Structures and Design Patterns.
+This's a self-practice Java Console Project major in implementation of Data Structures and Design Patterns.
+
